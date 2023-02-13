@@ -1,0 +1,51 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1675715343103,10012,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10012,0,1
+1675715353114,10016,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10016,0,0
+1675715363130,10013,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10013,0,0
+1675715373145,10016,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10016,0,0
+1675715383162,10011,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10011,0,0
+1675715393174,10012,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10012,0,0
+1675715403187,10017,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10017,0,2
+1675715413205,10013,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10013,0,0
+1675715423219,10011,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10011,0,0
+1675715433230,10013,Redis requests,200,,Scenario - Redis 1-1,true,,163,1,1,10013,0,0
+1675715443243,2,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,2,0,0
+1675715443245,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443247,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443248,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443249,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443250,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443251,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443253,0,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,0,0,0
+1675715443253,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443254,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443255,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443256,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443257,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443258,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443259,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443260,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443261,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443262,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443263,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443264,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443265,4,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,4,0,0
+1675715443269,2,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,2,0,0
+1675715443271,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443272,0,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,0,0,0
+1675715443272,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443273,0,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,0,0,0
+1675715443273,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443274,0,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,0,0,0
+1675715443274,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443275,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443276,0,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,0,0,0
+1675715443277,0,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,0,0,0
+1675715443277,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443278,0,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,0,0,0
+1675715443278,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443279,0,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,0,0,0
+1675715443279,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443280,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
+1675715443281,0,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,0,0,0
+1675715443281,1,Redis requests,429,,Scenario - Redis 1-1,false,Test failed: code expected to match /200/,147,1,1,1,0,0
